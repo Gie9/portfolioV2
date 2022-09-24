@@ -18,12 +18,6 @@ $(document).ready(function(){
 		$logo.fadeOut("slow");
 	});
 
-	// $('.text-color').css("color","#cf455c");
-	// $('.bg-color').css("background-color","#cf455c");
-	// $('.brdr-color').css("border-color","#cf455c");
-	// $('.progress-bar').css("background-color","#cf455c");
-
-	
 
 	/* ---------------------------------------------------------------------- */
 	/*	Menu
@@ -109,8 +103,6 @@ $(document).ready(function(){
 		$('.brdr-color').css("border-color","#42855B");
 		$('.progress-bar').css("background-color","#42855B");
 	});
-
-
 
 
 
